@@ -1,0 +1,8 @@
+LIBRARY "GameHandler"
+EXPORTS
+	GameIndependantProcess	@1
+	GameUpdateAndRender		@2
+	UpdateGameState			@3
+	GameGetSoundBuffers		@4
+	InitGameState			@5
+	ShutdownGameState		@6
